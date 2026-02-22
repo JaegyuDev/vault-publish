@@ -19,7 +19,7 @@ The Magic Item Tools table lists which tool is required to make a magic item of 
 | Wand           | [Woodcarver’s Tools](https://www.dndbeyond.com/equipment/445-woodcarvers-tools)                                                                                                                                                                                                                                      |
 | Weapon         | [Leatherworker’s Tools](https://www.dndbeyond.com/equipment/425-leatherworkers-tools), [Smith’s Tools](https://www.dndbeyond.com/equipment/438-smiths-tools), or [Woodcarver’s Tools](https://www.dndbeyond.com/equipment/445-woodcarvers-tools) depending on the kind of weapon as noted in the tools’ descriptions |
 | Wonderous Item | Tinker’s Tools](https://www.dndbeyond.com/equipment/441-tinkers-tools) or the tool required to make the nonmagical item on which the magic item is based                                                                                                                                                             |
-#### #### Spells
+#### Spells
 
 If a magic item allows its user to cast any spells from it, you must have all those spells prepared every day you spend crafting the item.
 
