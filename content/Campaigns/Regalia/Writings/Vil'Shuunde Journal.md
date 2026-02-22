@@ -1,0 +1,1 @@
+Undecipherable text along with a drawing of a stream and lush trees. Found fairly deep in in the [[Ashe Sands]].

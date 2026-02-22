@@ -1,0 +1,1 @@
+Originally the Senates secret service, The Veilguard are augmented by the essence extracted from the Voidstone fragments. 
