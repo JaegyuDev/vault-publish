@@ -17,7 +17,13 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://jaegyudev.github.io/vault-publish/",
-    ignorePatterns: ["private", "templates", ".obsidian", "5e SRD/00) Vault Information"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "5e SRD/00) Vault Information",
+      "5e/03) Monsters/**", // Show the folder but do not show the content
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
